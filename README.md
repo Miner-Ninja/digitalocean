@@ -7,7 +7,7 @@ This script reboots Droplets on DigitalOcean by simple URL with API
 You must generate Personal access token to the DigitalOcean API
 Go to your DigitalOcean > API > Generate New Token (https://cloud.digitalocean.com/account/api/tokens)
 
-API_KEY - your Personal access token
+API_KEY - your Personal access token /
 DROPLET_ID1 - your droplet id
 
 If you need to reboot more than one droplet, simply uncomment
